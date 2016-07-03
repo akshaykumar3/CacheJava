@@ -1,7 +1,6 @@
 
 import com.hazelcast.config.Config;
 import com.hazelcast.core.HazelcastInstance;
-import com.sun.tools.classfile.Synthetic_attribute;
 
 import java.util.Map;
 import java.util.Queue;
